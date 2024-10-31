@@ -1,6 +1,6 @@
-# sbc24 api
+# sbc24 api - mock server
 
-This api is created to fetch the name and status of the sbc24 bootcamp members.
+This api is created to fetch the data of the sbc24 bootcamp members.
 
 ## Endpoint URLs
 
